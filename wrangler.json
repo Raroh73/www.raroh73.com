@@ -1,0 +1,11 @@
+{
+  "name": "www.raroh73.com",
+  "compatibility_date": "2025-10-25",
+  "assets": {
+    "directory": "dist"
+  },
+  "route": {
+    "custom_domain": true,
+    "pattern": "www.raroh73.com"
+  }
+}
