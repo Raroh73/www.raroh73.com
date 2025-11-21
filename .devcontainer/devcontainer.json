@@ -1,0 +1,24 @@
+{
+  "name": "Bun",
+  "image": "oven/bun:1.3",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "astro-build.astro-vscode",
+        "biomejs.biome",
+        "oven.bun-vscode"
+      ]
+    }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils": {
+      "configureZshAsDefaultShell": true,
+      "username": "bun"
+    },
+    "ghcr.io/devcontainers/features/git": {}
+  },
+  "forwardPorts": [
+    4321
+  ],
+  "remoteUser": "bun"
+}
