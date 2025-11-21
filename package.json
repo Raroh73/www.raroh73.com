@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "scripts": {
-    "astro:dev": "astro dev",
+    "astro:dev": "astro dev --host",
     "astro:build": "astro build",
     "astro:check": "astro check",
     "biome:ci": "biome ci",
