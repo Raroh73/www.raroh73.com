@@ -24,6 +24,6 @@ export default defineConfig({
         ],
       },
     ],
-    svgo: true
+    svgo: true,
   },
 });
