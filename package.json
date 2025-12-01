@@ -14,7 +14,7 @@
     "@astrojs/check": "0.9.6",
     "@astrojs/sitemap": "3.6.0",
     "@biomejs/biome": "2.3.8",
-    "astro": "5.16.2",
+    "astro": "5.16.3",
     "typescript": "5.9.3",
     "wrangler": "4.51.0"
   }
